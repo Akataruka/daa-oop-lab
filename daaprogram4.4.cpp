@@ -1,3 +1,5 @@
+// The Max-Min Problem in the divide and conquer algorithm analysis is finding the maximum and minimum value in an array.
+
 #include <iostream>
 using namespace std;
 
